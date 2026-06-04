@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 768 768" role="img" aria-labelledby="title desc">
+  <title id="title">Open book with sparkles</title>
+  <desc id="desc">A blue open-book icon with rays and sparkles above it.</desc>
+
+  <defs>
+    <style>
+      .icon-fill { fill: #4d6f88; }
+      .icon-stroke {
+        fill: none;
+        stroke: #4d6f88;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+
+  <g class="icon-fill">
+    <path d="M158 30c-9 20-22 33-37 42 15 8 28 22 37 42 9-20 22-34 37-42-15-9-28-22-37-42Z"/>
+    <path d="M586 15c-10 26-26 40-42 49 16 8 32 23 42 49 10-26 26-41 42-49-16-9-32-23-42-49Z"/>
+    <path d="M78 188c-10 26-26 40-42 49 16 8 32 23 42 49 10-26 26-41 42-49-16-9-32-23-42-49Z"/>
+    <path d="M680 157c-8 20-20 32-35 41 15 8 27 20 35 41 8-21 20-33 35-41-15-9-27-21-35-41Z"/>
+
+    <path d="M90 332h48l-23 334H48c-11 0-19-10-18-21l28-248c1-10 9-17 19-17h13Z"/>
+    <path d="M678 332h-48l23 334h67c11 0 19-10 18-21l-28-248c-1-10-9-17-19-17h-13Z"/>
+  </g>
+
+  <g class="icon-stroke" stroke-width="32">
+    <path d="M160 156 214 226"/>
+    <path d="M259 96 267 118"/>
+    <path d="M275 172 290 241"/>
+    <path d="M380 31v29"/>
+    <path d="M380 114v57"/>
+    <path d="M380 226v71"/>
+    <path d="M496 95 488 133"/>
+    <path d="M482 188 468 242"/>
+    <path d="M607 156 550 226"/>
+
+    <path d="M157 302c93-11 173 15 227 85"/>
+    <path d="M611 302c-93-11-173 15-227 85"/>
+
+    <path d="M157 302 131 578"/>
+    <path d="M611 302 637 578"/>
+
+    <path d="M131 578c111 13 198 54 253 136"/>
+    <path d="M637 578c-111 13-198 54-253 136"/>
+
+    <path d="M384 389v325"/>
+
+    <path d="M79 348h58"/>
+    <path d="M689 348h-58"/>
+
+    <path d="M47 651c143 8 262 37 337 79"/>
+    <path d="M721 651c-143 8-262 37-337 79"/>
+  </g>
+</svg>
